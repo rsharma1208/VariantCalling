@@ -6,6 +6,6 @@ You have two genomes to work with, and your pipeline should be capable of identi
 
 To achieve full credit (100%), submit the following deliverables:
 
-Two tables (DataFrames) listing mutations for each genome.
-A third table showing mutations shared between both genomes.
-A simple chart (using any of the chart types introduced in the previous module) that visualizes an aspect of the data.
+1. Two tables (DataFrames) listing mutations for each genome.
+2. A third table showing mutations shared between both genomes.
+3. A simple chart (using any of the chart types introduced in the previous module) that visualizes an aspect of the data.
